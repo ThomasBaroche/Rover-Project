@@ -1,6 +1,6 @@
 %% Script définissant les différents paramètres liés au Robot
 %
-% 
+%  
 % Ce fichier de paramètre est chargé dans le workspace au démarrage du projet
 % 
 % 
